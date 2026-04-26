@@ -1,1 +1,3 @@
-# pnp
+<?php 
+phpinfo();
+?>
